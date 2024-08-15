@@ -1,6 +1,6 @@
-import SideNav from "../ui/dashboard/sidenav";
+"use client";
 
-import React from "react";
+import SideNav from "../ui/dashboard/sidenav";
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
   return (

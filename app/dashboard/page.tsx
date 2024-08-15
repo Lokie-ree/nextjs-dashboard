@@ -1,7 +1,9 @@
+"use client";
+
 import React from "react";
 
 const Page = () => {
-  return <p>Dashboard Page</p>;
+  return <p>Invoices Page</p>;
 };
 
 export default Page;
